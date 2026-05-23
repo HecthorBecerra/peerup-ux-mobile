@@ -116,6 +116,19 @@ Key insights:
 
 ## 6. Skeleton Phase
 
+#### 6.1. Low-fidelity wireframes
+
+Low-fidelity wireframes were created to define the prototype's base skeleton. The goal was to distribute information across each screen for three main user flows:
+
+1.  **Tutoring Search and Booking:** Finding tutors by subject, viewing their profiles (availability, ratings), and scheduling a session.
+2.  **Session Management:** Managing scheduled tutorials, communicating with the tutor/student, and confirming session completion.
+3.  **History View:** Accessing a calendar or list with past and future sessions.
+
+The main screens such as "Home," "Search," "My Tutoring," and "Profile" were also designed, including their corresponding settings.
+
+All the wireframes made in Figma can be viewed at the following link:
+[View Wireframes on Figma](https://www.figma.com/design/XMnTTctbPzOS90jXpodItF/Low-Fi---Tutor%C3%ADas?node-id=0-1&p=f&t=2G5IBUMWNHScTkhW-0)
+
 ---
 
 ## 7. Surface Phase
