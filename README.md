@@ -46,9 +46,9 @@ The service fosters a sense of academic community, lowers the barrier for asking
 
 ## 2. Team Members
 
-- [Add team member name]
-- [Add team member name]
-- [Add team member name]
+- [Hector Becerra]
+- [Matias Gonzales]
+- [Arturo Rivas]
 
 ---
 
@@ -58,8 +58,7 @@ The service fosters a sense of academic community, lowers the barrier for asking
 
 A visual representation of what users expect to solve and what the mobile application aims to provide. The main pain points identified are the difficulty of finding affordable, schedule-compatible academic support and the social barrier that prevents students from asking for help in formal settings. PeerUp addresses these by enabling flexible, peer-driven, low-cost tutoring directly from a mobile device.
 
-<!-- Replace with the actual uploaded GitHub image URL after uploading Value Proposition Canvas -->
-<!-- <img width="1920" height="1080" alt="Value Proposition Canvas PeerUp" src="[GITHUB_IMAGE_URL]" /> -->
+<img width="1920" height="1080" alt="Value Proposition Canvas PeerUp" src="assets/images/Value Proposition Canvas.png" />
 
 ---
 
@@ -72,17 +71,17 @@ Three user archetypes were defined to capture the full range of needs within the
 - The student with a mixed profile (both mentee and mentor in different subjects)
 
 #### Struggling student: Carlos Pizarro (21, Temuco)
-<img width="1920" height="1080" alt="ux_persona_carlos_peerup" src="https://github.com/HecthorBecerra/peerup-ux-mobile/blob/main/Persona-1.png?raw=true" />
+<img width="1920" height="1080" alt="ux_persona_carlos_peerup" src="assets/images/Persona-1.png" />
 
 > *"I don't need long classes… just someone who can explain clearly what I don't understand."*
 
 #### Available mentor: Valentina Mendoza (23, Vilcún)
-<img width="1920" height="1080" alt="ux_persona_valentina_peerup" src="https://github.com/HecthorBecerra/peerup-ux-mobile/blob/main/Persona-2.png?raw=true" />
+<img width="1920" height="1080" alt="ux_persona_valentina_peerup" src="assets/images/Persona-2.png" />
 
 > *"I like teaching, but the class schedule is terrible."*
 
 #### Struggling student with different background: Juan Espinosa (22, Villarrica)
-<img width="1920" height="1080" alt="ux_persona_juan_peerup" src="https://github.com/HecthorBecerra/peerup-ux-mobile/blob/main/Persona-3.png?raw=true" />
+<img width="1920" height="1080" alt="ux_persona_juan_peerup" src="assets/images/Persona-3.png" />
 
 > *"I want to improve, but even though I try to study the subject, I find it hard to understand, and I do poorly on exams."*
 
@@ -94,21 +93,16 @@ In order to obtain a better visual reference on the design of our product compar
 
 For the benchmark presented below, four applications related to tutoring, scheduling and academic support were considered: **Wyzant**, **Preply**, **RedSalud**, and **AgendaPro**. Aspects such as visual design, information display, accessibility, ease of scheduling, and search functionality were analyzed.
 
+<img width="1920" height="1080" alt="Benchmark" src="assets/images/benchmark.png" />
+
 Key insights:
 - **Include:** Easy schedule management and direct subject-based search.
 - **Increase:** Accessibility of relevant buttons and an overall pleasant interface.
 - **Decrease:** Use of unnecessary banners or decorative elements.
-- **Avoid:** Cluttered interfaces with too much text, and charging per individual session.
-
-The application should convey a sense of a united, supportive community.
-
-<img width="1920" height="1080" alt="Benchmark PeerUp" src="https://github.com/HecthorBecerra/peerup-ux-mobile/blob/main/benchmark.png?raw=true" />
 
 ---
 
 ## 4. Scope Phase
-
-TBA
 
 ---
 
@@ -116,21 +110,15 @@ TBA
 
 ### 5.1 Navigation Flow
 
-A visual diagram illustrating how the application's services connect and operate internally. The flow begins at login/registration and branches into five main sections from the main panel: Search & Matches, My Sessions & Calendar, Messages & Channels, Profile & Achievements, and Alerts & Reminders.
-
-<img width="1920" height="1080" alt="Navigation Flow PeerUp" src="https://github.com/HecthorBecerra/peerup-ux-mobile/blob/main/DiagramaV1.png?raw=true" />
+<img width="1920" height="1080" alt="DiagramaV1" src="assets/images/DiagramaV1.png" />
 
 ---
 
 ## 6. Skeleton Phase
 
-TBA
-
 ---
 
 ## 7. Surface Phase
-
-TBA
 
 ---
 
