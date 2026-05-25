@@ -91,7 +91,7 @@ Three user archetypes were defined to capture the full range of needs within the
 
 In order to obtain a better visual reference on the design of our product compared to existing applications in this market sector, an informative benchmark was carried out to identify key functionalities and characteristics that could be integrated into our development.
 
-For the benchmark presented below, four applications related to tutoring, scheduling and academic support were considered: **Wyzant**, **Preply**, **RedSalud**, and **AgendaPro**. Aspects such as visual design, information display, accessibility, ease of scheduling, and search functionality were analyzed.
+For the benchmark presented below, four applications related to tutoring, scheduling and academic support were considered: **Wyzant**, **Preply**, **RedSalud**, and **Google Calendar**. Aspects such as visual design, information display, accessibility, ease of scheduling, and search functionality were analyzed.
 
 <img width="1920" height="1080" alt="Benchmark" src="assets/images/benchmark.png" />
 
