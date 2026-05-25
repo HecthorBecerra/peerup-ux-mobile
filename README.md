@@ -104,6 +104,22 @@ Key insights:
 
 ## 4. Scope Phase
 
+### 4.1 Core user flows (hi-fi)
+
+**Student flow:**
+- Search subject
+- View available tutors
+- Select tutor
+- View photo, profile, and available time slots
+- Describe session topics (what the student wants to cover)
+- Chat with the tutor
+- After the session, rate the tutor (review)
+
+**Tutor flow:**
+- Register subjects
+- Set available time slots
+- Review scheduled tutoring sessions
+
 ---
 
 ## 5. Structure Phase
@@ -132,6 +148,13 @@ All the wireframes made in Figma can be viewed at the following link:
 ---
 
 ## 7. Surface Phase
+
+### 7.1 High-fidelity prototype
+
+High-fidelity screens were produced to define the final visual language, layout, and interaction details for the PeerUp mobile app. The focus was on a clean, approachable UI, clear tutoring actions, and consistent components across the core flows (search, booking, session management, and profile).
+
+View the hi-fi prototype in Figma:
+[PeerUp Hi-Fi Prototype](https://www.figma.com/design/9hS7yQg5W6bTNbfuL0HtUa/Peerup?node-id=0-1&p=f&t=jec1zO4LBCBp4sOi-0)
 
 ---
 
