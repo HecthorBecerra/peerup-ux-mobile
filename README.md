@@ -110,7 +110,7 @@ Key insights:
 
 ### 5.1 Navigation Flow
 
-<img width="1920" height="1080" alt="DiagramaV1" src="assets/images/DiagramaV1.png" />
+<img width="1920" height="1080" alt="Nav-Diagram" src="assets/images/Nav-Diagram.png" />
 
 ---
 
