@@ -46,9 +46,9 @@ The service fosters a sense of academic community, lowers the barrier for asking
 
 ## 2. Team Members
 
-- [Hector Becerra]
-- [Matias Gonzales]
-- [Arturo Rivas]
+- [Hector Becerra] Jefe de Proyecto
+- [Matias Gonzales] Diseñador
+- [Arturo Rivas] Analista
 
 ---
 
