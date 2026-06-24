@@ -26,6 +26,12 @@ Peer-to-peer tutoring and mentoring mobile application connecting university stu
 
 - [7. Surface Phase](#7-surface-phase)
 
+- [8. Heuristic Evaluation — Recent Updates & Pending Improvements](#8-heuristic-evaluation--recent-updates--pending-improvements)
+  - [8.1 Recent UI improvements implemented](#81-recent-ui-improvements-implemented)
+  - [8.2 Maximum criticality (22–23 pts)](#82-maximum-criticality-2223-pts)
+  - [8.3 High criticality (20–21 pts)](#83-high-criticality-2021-pts)
+  - [8.4 Medium-high criticality (17–18 pts)](#84-medium-high-criticality-1718-pts)
+
 ---
 
 ## 1. Introduction
@@ -155,6 +161,58 @@ High-fidelity screens were produced to define the final visual language, layout,
 
 View the hi-fi prototype in Figma:
 [UFRO Tutorías Hi-Fi Prototype](https://www.figma.com/design/9hS7yQg5W6bTNbfuL0HtUa/Peerup?node-id=0-1&p=f&t=jec1zO4LBCBp4sOi-0)
+
+---
+
+## 8. Heuristic Evaluation — Recent Updates & Pending Improvements
+
+The following section summarizes the findings from the latest heuristic evaluation conducted on the hi-fi prototype. Issues are organized by criticality score (Severity × Frequency).
+
+### 8.1 Recent UI improvements implemented
+
+Based on the evaluation, the main improvements identified and already applied to the prototype are:
+
+**Onboarding flow** — A role-selection onboarding was introduced at first launch to personalize the experience from the start.
+
+- The user is asked whether they will participate as a **tutor** or a **student**.
+- If **tutor**: the user registers the subjects they can teach and sets an hourly rate for each. Multiple subjects can be added.
+- For **both roles**: the user selects their weekly availability on an interactive schedule from 08:00 to 23:00. Each hour is a tappable button. To avoid rendering 16 rows, the schedule is divided into three sections — **Morning**, **Afternoon**, and **Night**.
+- Finally, the user is asked for their **name** and **degree program**, completing the onboarding.
+
+<img width="1920" height="1080" alt="Onboarding flow UFRO Tutorías" src="assets/images/onboarding.png" />
+
+---
+
+### 8.2 Maximum criticality (22–23 pts)
+
+| # | Issue | Criticality |
+|---|-------|-------------|
+| 1 | **Add a login screen** — the app currently has no authentication or session control. | 22–23 |
+| 2 | **Search filter by tutor availability** — users must open each tutor profile individually to check whether their schedule matches. | 22 |
+| 3 | **Increase font size** — current text is approximately 12 px, too small for comfortable reading, especially in "About me" and "Describe topics." | 22 |
+
+---
+
+### 8.3 High criticality (20–21 pts)
+
+| # | Issue | Criticality |
+|---|-------|-------------|
+| 4 | **Cancel / reschedule a tutoring session** — there is no way to undo an enrollment error. | 21 |
+| 5 | **Show the day in "Scheduled / Confirmed Tutoring"** — the card only displays the time and tutor name; the date is missing. | 21 |
+| 6 | **Translate weekday labels to Spanish** in "Enroll Tutoring" — currently shown in English (Mon, Tue, Wed…). | 21 |
+| 7 | **Add a progress indicator** (spinner or progress bar) during enrollment and scheduling processes. | 20 |
+| 8 | **Fix the "Home" footer button** — it does not navigate to the home screen; the user stays on the tutor profile. | 20 |
+| 9 | **Relocate the "Enroll Tutoring" button** out of "My Profile," where it is out of context. | 20 |
+
+---
+
+### 8.4 Medium-high criticality (17–18 pts)
+
+| # | Issue | Criticality |
+|---|-------|-------------|
+| 10 | **Add a text input in "What topics do you handle for this subject?"** — there is currently no field to type an answer. | 18 |
+| 11 | **Unify time format** (12 h vs 24 h) between the "Tutor Info" screen and the scheduling time picker. | 17 |
+| 12 | **Rename buttons consistently** — "Inscribir Tutoría" and "Inscribir" appear in the same flow with inconsistent labels. | 17 |
 
 ---
 
