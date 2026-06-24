@@ -1,4 +1,4 @@
-# PeerUp
+# UFRO Tutorías
 
 Peer-to-peer tutoring and mentoring mobile application connecting university students who need academic support with peers who can provide it.
 
@@ -38,7 +38,7 @@ University students frequently fail or struggle in subjects without knowing wher
 
 ### 1.2 The proposed solution
 
-PeerUp is a mobile application that connects university students seeking academic support with peer mentors from their own institution. Students can search for tutors by subject and schedule, book sessions, communicate directly, and evaluate the experience—all within a single platform.
+UFRO Tutorías is a mobile application that connects university students seeking academic support with peer mentors from their own institution. Students can search for tutors by subject and schedule, book sessions, communicate directly, and evaluate the experience—all within a single platform.
 
 The service fosters a sense of academic community, lowers the barrier for asking for help, and offers flexible scheduling so that both mentors and mentees can participate on their own terms.
 
@@ -56,9 +56,9 @@ The service fosters a sense of academic community, lowers the barrier for asking
 
 ### 3.1 Value Proposition Canvas
 
-A visual representation of what users expect to solve and what the mobile application aims to provide. The main pain points identified are the difficulty of finding affordable, schedule-compatible academic support and the social barrier that prevents students from asking for help in formal settings. PeerUp addresses these by enabling flexible, peer-driven, low-cost tutoring directly from a mobile device.
+A visual representation of what users expect to solve and what the mobile application aims to provide. The main pain points identified are the difficulty of finding affordable, schedule-compatible academic support and the social barrier that prevents students from asking for help in formal settings. UFRO Tutorías addresses these by enabling flexible, peer-driven, low-cost tutoring directly from a mobile device.
 
-<img width="1920" height="1080" alt="Value Proposition Canvas PeerUp" src="assets/images/Value Proposition Canvas.png" />
+<img width="1920" height="1080" alt="Value Proposition Canvas UFRO Tutorías" src="assets/images/Value Proposition Canvas.png" />
 
 ---
 
@@ -71,17 +71,17 @@ Three user archetypes were defined to capture the full range of needs within the
 - The student with a mixed profile (both mentee and mentor in different subjects)
 
 #### Struggling student: Carlos Pizarro (21, Temuco)
-<img width="1920" height="1080" alt="ux_persona_carlos_peerup" src="assets/images/Persona-1.png" />
+<img width="1920" height="1080" alt="ux_persona_carlos_ufro_tutorias" src="assets/images/Persona-1.png" />
 
 > *"I don't need long classes… just someone who can explain clearly what I don't understand."*
 
 #### Available mentor: Valentina Mendoza (23, Vilcún)
-<img width="1920" height="1080" alt="ux_persona_valentina_peerup" src="assets/images/Persona-2.png" />
+<img width="1920" height="1080" alt="ux_persona_valentina_ufro_tutorias" src="assets/images/Persona-2.png" />
 
 > *"I like teaching, but the class schedule is terrible."*
 
 #### Struggling student with different background: Juan Espinosa (22, Villarrica)
-<img width="1920" height="1080" alt="ux_persona_juan_peerup" src="assets/images/Persona-3.png" />
+<img width="1920" height="1080" alt="ux_persona_juan_ufro_tutorias" src="assets/images/Persona-3.png" />
 
 > *"I want to improve, but even though I try to study the subject, I find it hard to understand, and I do poorly on exams."*
 
@@ -151,10 +151,10 @@ All the wireframes made in Figma can be viewed at the following link:
 
 ### 7.1 High-fidelity prototype
 
-High-fidelity screens were produced to define the final visual language, layout, and interaction details for the PeerUp mobile app. The focus was on a clean, approachable UI, clear tutoring actions, and consistent components across the core flows (search, booking, session management, and profile).
+High-fidelity screens were produced to define the final visual language, layout, and interaction details for the UFRO Tutorías mobile app. The focus was on a clean, approachable UI, clear tutoring actions, and consistent components across the core flows (search, booking, session management, and profile).
 
 View the hi-fi prototype in Figma:
-[PeerUp Hi-Fi Prototype](https://www.figma.com/design/9hS7yQg5W6bTNbfuL0HtUa/Peerup?node-id=0-1&p=f&t=jec1zO4LBCBp4sOi-0)
+[UFRO Tutorías Hi-Fi Prototype](https://www.figma.com/design/9hS7yQg5W6bTNbfuL0HtUa/Peerup?node-id=0-1&p=f&t=jec1zO4LBCBp4sOi-0)
 
 ---
 
